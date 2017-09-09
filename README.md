@@ -6,6 +6,7 @@
 | Insert a gap                       |  2            |
 | Align two characters that mismatch |  1            |
 | Aligh two characters that match    |  0            |
+
 <a href="http://imgbox.com/bz0WIgq5" target="_blank"><img src="https://thumbs.imgbox.com/20/d2/bz0WIgq5_t.png" alt="image host"/></a>
 # __Getting Started__
 ##### For the other files of this program, please email me at joanel.vasquez1520@gmail.com explaning why you need the program. Put the name of the program in the subject and GITHUB. 
