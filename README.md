@@ -1,7 +1,7 @@
 # Edit-Distance
 ##### For this program, I measured the similarity of two genetic sequences by their edit distance, a concept first introduced in the context of coding theory, but which is now widely used in spell checking, speech recognition, plagiarism detection, file revisioning, and computational linguistics. We aligned the two sequences, but we are permitted to insert gaps in either sequence (e.g., to make them have the same length). We pay a penalty for each gap that we insert and also for each pair of characters that mismatch in the final alignment. Intuitively, these penalties model the relative likeliness of point mutations arising from deletion/insertion and substitution. We produce a numerical score according to the following table, which is widely used in biological applications: 
 
-##### Operation                            Cost 
+##### Operation                             Cost 
 insert a gap                          2   
 align two characters that mismatch    1 
 align two characters that match       0 
